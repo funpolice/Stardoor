@@ -1,7 +1,21 @@
-# Ignore Everything
+# Ignore everything
 /*
+/*/
 
-# Except for these:
-!/.gitignore
-!/Assets
-!/ProjectSettings
+# Inverse ignore some stuff
+!/Documentation
+!/Psykers
+/Psykers/*
+!/Psykers/Assets
+!/Psykers/ProjectSettings
+!.gitignore
+
+# OS Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini

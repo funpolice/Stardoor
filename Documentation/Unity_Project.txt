@@ -1,0 +1,13 @@
+Animations   Animations not attached to a specific model or for use with multiple models
+Audio        All sound effects
+Editor       Unity editor extensions
+Materials    Materials not attached to a specific model (skybox, particles, ect)
+Models       Models and all of their related textures and materials
+Plugins      Third party extensions, assets, plugins, frameworks, ect
+Prefabs      Gameobject prefabs
+Resources    For building with additional assets not referenced in selected scene
+Scenes       All scenes
+Scripts      All scripts
+Shaders      All shaders
+Textures     Textures not attached to a specific model  
+UI           Fonts, styles, UI textures
